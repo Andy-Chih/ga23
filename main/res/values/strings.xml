@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaunalEncyclopedia</string>
+    <string name="authorization">Bearer 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</string>
+    <string name="Content">Write a paragraph to introduce \'%1$s\'.</string>
+    <string-array name="sort_options">
+        <item>sort by year</item>
+        <item>sort by name</item>
+    </string-array>
+</resources>
